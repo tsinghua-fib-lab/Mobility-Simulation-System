@@ -1,5 +1,5 @@
 # A City-level High Performance Spatio-temporal Mobility Simulation System
-Submitted to KDD2023 ADS
+Submitted to SIGSPATIAL 2023
 
 Authors: Jun Zhang, Depeng Jin, Yong Li
 
